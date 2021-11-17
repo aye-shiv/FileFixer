@@ -1,2 +1,2 @@
 # FileFixer
-A Java based solution for a problem posed during an assignment
+A Java based solution for a problem posed for an Object Oriented Programming project
